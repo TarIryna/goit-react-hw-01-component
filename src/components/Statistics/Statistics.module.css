@@ -1,0 +1,34 @@
+.statistics{
+  margin: 30px;
+  display: block;
+  background-color: #d2e7fc;
+  width: 370px;
+  height: 300px;
+  padding: 100px;
+  text-align: center;
+}
+.title{
+background-color: white;
+padding-bottom: 20px;
+padding-top: 20px;
+margin: 0;
+}
+.statList{
+margin: 0;
+padding: 0;
+display: flex;
+}
+.item{
+display: flex;
+flex-flow: column wrap;
+padding: 10px;
+color: white;
+flex-basis: calc(370px / 5);
+border: 1px solid #dcdee0;
+}
+.label{
+padding: 2px;
+}
+.percentage{
+paddind: 2px;
+}

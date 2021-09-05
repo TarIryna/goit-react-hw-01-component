@@ -48,5 +48,4 @@ Profile.propTypes = {
     likes: PropTypes.number 
 };
 
-console.log(Profile);
 export default Profile;
