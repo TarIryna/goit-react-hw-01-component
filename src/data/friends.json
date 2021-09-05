@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://i.ibb.co/5rt4mrm/Mango.jpg",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://i.ibb.co/HBFTLHp/Kiwi.jpg",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://i.ibb.co/42S64ZJ/Ajax.jpg",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://i.ibb.co/6grW4rL/Jay.jpg",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://i.ibb.co/pfH1ZDB/Poly.jpg",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]

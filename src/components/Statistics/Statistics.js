@@ -4,14 +4,13 @@ import s from './Statistics.module.css';
 import getRandomHexColor from '../../getColor';
 
 const Statistics = ({ statData }) => (
- <section class={s.statistics}>
-  <h2 class={s.title}>Upload stats</h2>
-
-  <ul class={s.statList}>
+ <section className={s.statistics}>
+  <h2 className={s.title}>Upload stats</h2>
+  <ul className={s.statList}>
   {statData.map(({id, label, percentage}) => (
-    <li class={s.item} key={id} style={{ backgroundColor: getRandomHexColor() }}>
-      <span class={s.label}>{label}</span>
-      <span class={s.percentage}>{percentage}</span>
+    <li className={s.item} key={id} style={{ backgroundColor: getRandomHexColor() }}>
+      <span className={s.label}>{label}</span>
+      <span className={s.percentage}>{percentage}</span>
     </li>
   ))}
   </ul>

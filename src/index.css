@@ -13,5 +13,15 @@ code {
     monospace;
 }
 h1{
- margin-left: 250px;
+ margin-left: 150px;
+}
+.buttons{
+  display: flex;
+}
+.button{
+  padding: 5px;
+  font-size: 20px;
+}
+.button:not(:first-child) {
+  margin-left: 10px;
 }
