@@ -1,0 +1,22 @@
+avatar {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+profile {
+  display: block;
+  background-color: grey;
+}
+location {
+}
+name {
+}
+tag {
+}
+stats {
+}
+label {
+}
+quantity {
+}
