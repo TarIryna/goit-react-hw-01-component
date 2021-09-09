@@ -1,5 +1,0 @@
-  <div>
-       <h1>Задание 3</h1> 
-       <FriendList friendsData = {friendsData}
-        />
-     </div>
