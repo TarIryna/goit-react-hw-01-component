@@ -1,15 +1,15 @@
-.columnTitle{
-    width: 200px;
-    background-color: #28dff7;
-    color: white;
-    padding: 10px;
-    text-transform: uppercase;
+.columnTitle {
+  width: 200px;
+  background-color: #28dff7;
+  color: white;
+  padding: 10px;
+  text-transform: uppercase;
 }
-.tableText{
-    text-align: center;
-    padding: 3px;
-    color: #575959;
+.tableText {
+  text-align: center;
+  padding: 3px;
+  color: #575959;
 }
 .row:nth-child(2n) {
-    background-color: #ebeff0;
+  background-color: #ebeff0;
 }

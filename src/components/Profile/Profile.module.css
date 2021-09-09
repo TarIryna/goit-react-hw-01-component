@@ -22,12 +22,12 @@
   justify-content: center;
 }
 
-.description{
-background-color: white;
-border-radius: 10px;
-padding: 30px;
-font-size: 20px;
-color: grey;
+.description {
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+  font-size: 20px;
+  color: grey;
 }
 .name {
   font-size: 25px;
@@ -35,7 +35,7 @@ color: grey;
   color: black;
 }
 
-li{
+li {
   list-style: none;
   display: flex;
   flex-flow: column wrap;
